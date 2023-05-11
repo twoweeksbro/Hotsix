@@ -1,2 +1,2 @@
 # Hotsix
-GET IT Hackathon 2023 6조
+2023 GET IT Hackathon 6조
